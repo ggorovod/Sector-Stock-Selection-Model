@@ -1,0 +1,422 @@
+    1  python --version
+    2  python
+    3  winpty python
+    4  alias python='winpty python'
+    5  python
+    6  echo "alias python='winpty python.exe'" >> ~/.bashrc
+    7  python
+    8  conda --version
+    9  conda init bash
+   10  conda init bash
+   11  ls
+   12  conda
+   13  conda
+   14  git --version
+   15  git config --global user.name "Azam Jiva"
+   16  git config --global user.email "jivazam@gmail.com"
+   17  ssh-keygen
+   18  ls
+   19  cd .ssh
+   20  ls
+   21  mv 
+   22  mv *.* c:/
+   23  cat id_rsa.pub
+   24  git checkout -b example-tutorial-branch
+   25  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-08-2022-U-B.git
+   26  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-08-2022-U-B.git
+   27  ls
+   28  cd CU-VIRT-FIN-PT-08-2022-U-B/
+   29  ls
+   30  git checkout -b feature_name
+   31  git commmit -am "My feature is ready"
+   32  git push origin feature_name
+   33  ls
+   34  edit Readme.md
+   35  cat readme.md
+   36  conda
+   37  conda --version
+   38  _conda --version
+   39  cd C:\Users\azamjiva\Anaconda3
+   40  ls
+   41  cd Anaconda3/
+   42  conda
+   43  _conda
+   44  ls
+   45  cd condabin/
+   46  conda
+   47  conda --version
+   48  conda.exe --version
+   49  echo ". ${PWD}/conda.sh" >> ~/.bashrc"
+   50  echo ". ${PWD}/conda.sh" >> ~/.bashrc
+   51  conda init bash
+   52  maui
+   53  maui sf
+   54  ls
+   55  python percent_increase.py
+   56  python percent_increase.py
+   57  python percent_increase.py
+   58  python percent_increase.py
+   59  python percent_increase.py
+   60  python percent_increase.py
+   61  ls
+   62  ls
+   63  python variables.py
+   64  python variables.py
+   65  python variables.py
+   66  python variables.py
+   67  python variables.py
+   68  python variables.py
+   69  python variables.py
+   70  python conditional_statement.py
+   71  python conditional_statement.py
+   72  python conditional_statement.py
+   73  python split_second_part_2.py
+   74  python split_second_part_2.py
+   75  python returned_goods.py
+   76  python returned_goods.py
+   77  python a_definitive_buy.py
+   78  python a_definitive_buy.py
+   79  python split_second_homebuying.py
+   80  python split_second_homebuying.py
+   81  python split_second_homebuying.py
+   82  python split_second_homebuying.py
+   83  python split_second_homebuying.py
+   84  python split_second_homebuying.py
+   85  python nested_conditionals.py 
+   86  python nested_conditionals.py 
+   87  python pathways_to_success.py
+   88  python pathways_to_success.py
+   89  python racking_up_the_profit.py
+   90  python racking_up_the_profit.py
+   91  python racking_up_the_profit.py
+   92  python racking_up_the_profit.py
+   93  python racking_up_the_profit.py
+   94  python manipulating_lists.py
+   95  python manipulating_lists.py
+   96  python manipulating_lists.py
+   97  python manipulating_lists.py
+   98  python manipulating_lists.py
+   99  python manipulating_lists.py
+  100  python manipulating_lists.py
+  101  python manipulating_lists.py
+  102  python manipulating_lists.py
+  103  python manipulating_lists.py
+  104  python manipulating_lists.py
+  105  python manipulating_lists.py
+  106  python manipulating_lists.py
+  107  python manipulating_lists.py
+  108  python manipulating_lists.py
+  109  python manipulating_lists.py
+  110  python manipulating_lists.py
+  111  ls
+  112  python pathways_to_success_part_2.py
+  113  python pathways_to_success_part_2.py
+  114  python pathways_to_success_part_2.py
+  115  python loan_analyzer.py
+  116  python loan_analyzer.py
+  117  python loan_analyzer.py
+  118  python loan_analyzer.py
+  119  python loan_analyzer.py
+  120  python loan_analyzer.py
+  121  python loan_analyzer.py
+  122  python loan_analyzer.py
+  123  python loan_analyzer.py
+  124  python automated_equity_rounds.py
+  125  python automated_equity_rounds.py
+  126  python automated_equity_rounds.py
+  127  python automated_equity_rounds.py
+  128  python automated_equity_rounds.py
+  129  python automated_equity_rounds.py
+  130  python automated_equity_rounds.py
+  131  python automated_equity_rounds.py
+  132  python automated_equity_rounds.py
+  133  python automated_equity_rounds.py
+  134  python loan_analyzer.py
+  135  python loan_analyzer.py
+  136  python loan_analyzer.py
+  137  python loan_analyzer.py
+  138  python loan_analyzer.py
+  139  python loan_analyzer.py
+  140  python loan_analyzer.py
+  141  python loan_analyzer.py
+  142  python loan_analyzer.py
+  143  python loan_analyzer.py
+  144  python loan_analyzer.py
+  145  python loan_analyzer.py
+  146  python loan_analyzer.py
+  147  conda
+  148  pip install fire
+  149  python -m pip install --upgrade pip
+  150  python -m pip install --upgrade pip
+  151  pip install questionary
+  152  python app.py 
+  153  python app.py 
+  154  python app.py 
+  155  python app.py 
+  156  python app.py 
+  157  python app.py 
+  158  python app.py 
+  159  python app.py 
+  160  python app.py 
+  161  cd 
+  162  python fire-py.py
+  163  cd..
+  164  cd ..
+  165  ls
+  166  cd *fire
+  167  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  168  ls
+  169  cd 01_Adding_Fire_to_the_Loan_Qualifier_App/
+  170  ls
+  171  cd Unsolved/
+  172  ls
+  173  python app.py
+  174  python app.py
+  175  python app.py credit_score=650
+  176  python app.py --credit_score=650
+  177  python app.py --credit_score=650 debt=5000 income=20000
+  178  python app.py --credit_score=650 --debt=5000 --income=20000
+  179  pip install questionaries
+  180  pip install questionary
+  181  python dialog.py
+  182  python dialog.py
+  183  python dialog.py
+  184  python dialog.py
+  185  python app.py 
+  186  touch
+  187  touch --help
+  188  pip install fire
+  189  python app.py
+  190  python app.py
+  191  python app.py
+  192  python app.py
+  193  python app.py
+  194  python app.py
+  195  python app
+  196  python app.py
+  197  python app.py
+  198  python app.py --credit_score=750 --debt=5000 --income=20000
+  199  python app.py --credit_score=750 --debt=5000 --income=20000
+  200  python app.py --credit_score=750 --debt=5000 --income=20000
+  201  python app.py --credit_score=750 --debt=5000 --income=20000
+  202  python app.py
+  203  pwd
+  204  python app.py
+  205  python app.py
+  206  python app.py
+  207  python app.py
+  208  python app.py
+  209  python app.py
+  210  conda
+  211  conda jupyter
+  212  conda install jupyterlab
+  213  conda install jupyter
+  214  jupyter lab
+  215  jupyter lab
+  216  jupyter lab
+  217  jupyter lab
+  218  jupyter lab
+  219  jupyter lab
+  220  pip install matplotlib
+  221  jupyter lab
+  222  jupyter lab
+  223  jupyter lab
+  224  jupyter lab
+  225  jupyter lab
+  226  jupyter lab
+  227  juypter lab
+  228  jupyter lab
+  229  jupyter lab
+  230  adb
+  231  adb devices
+  232  adb push Live_Cricket_Tv_base.apk /
+  233  adb install Live_Cricket_Tv_base.apk
+  234  adb logcat > logs.txt
+  235  jupyter lab
+  236  ls
+  237  git status
+  238  git add .
+  239  git push
+  240  git add .
+  241  git status
+  242  git commit -m "update the jupyter file"
+  243  git push
+  244  git push main
+  245  git branch --move master main
+  246  git commit -m "update the jupyter file"
+  247  git add .
+  248  git commit -m "update the jupyter file"
+  249  git push
+  250  git push main HEAD
+  251  git status
+  252  git branch --move main main
+  253  git status
+  254  git push --set-upstream origin main
+  255  git push origin --delete master.
+  256  git push origin --delete master
+  257  git add .
+  258  git update
+  259  git status
+  260  ;s
+  261  ls
+  262  cd Starter_Code/
+  263  ls
+  264  git status
+  265  git add crypto_arbitrage.ipynb
+  266  git commit -m "adding jupyter file"
+  267  git push
+  268  git branch --unset-upstream
+  269  git status
+  270  git push
+  271  git commit -m "adding jupyter file"
+  272  git add crypto_arbitrage.ipynb
+  273  git commit -m "adding jupyter file"
+  274  git add crypto_arbitrage.ipynb
+  275  git push
+  276  git push main
+  277  git push --set-upstream main main
+  278  fetch https://github.com/ajiva84/Crypto_arbitrage.git
+  279  git fetch https://github.com/ajiva84/Crypto_arbitrage.git
+  280  git add .
+  281  git add 
+  282  git add .
+  283  git status
+  284  git commit "adding jupyter file"
+  285  git commit -m "adding jupyter file"
+  286  git push
+  287  git remote set-url origin https://github.com/ajiva84/loan_qualifier_application.git
+  288  git remote set-url main https://github.com/ajiva84/loan_qualifier_application.git
+  289  git push
+  290  git push main
+  291  git remote add main https://github.com/ajiva84/loan_qualifier_application.git
+  292  git push main
+  293  git push --force
+  294  git push main --force
+  295   push main --force
+  296   push main --force
+  297  git push --set-upstream main main
+  298  git remote add main https://github.com/ajiva84/Crypto_arbitrage.git
+  299  git push main
+  300  git push --set-upstream main main
+  301  git remote set-url main https://github.com/ajiva84/Crypto_arbitrage.git
+  302  git add .
+  303  git commit -m "update jupyter file"
+  304  git push main
+  305  git push --set-upstream main main
+  306  git push --force
+  307  git remote add main git@github.com:ajiva84/Crypto_arbitrage.git
+  308  git push main
+  309   git push --set-upstream main main
+  310  git pull https://github.com/ajiva84/Crypto_arbitrage.git
+  311  git add
+  312  git add /
+  313  git add .
+  314  git commit -m "checking"
+  315  git push main
+  316  git push --force
+  317  git remote set-url origin https://github.com/ajiva84/Crypto_arbitrage.git
+  318  git remote set-url origin main https://github.com/ajiva84/Crypto_arbitrage.git
+  319  git remote set-url main https://github.com/ajiva84/Crypto_arbitrage.git
+  320  git push --force
+  321  git push main --force
+  322  git push --force --set-upstream main main
+  323  pip install jupyter lab
+  324  python flash_all.py
+  325  python flash_all.py -w
+  326  python flash_all.py -w
+  327  python flash_all.py -w
+  328  python flash_all.py -w
+  329  python flash_all.py -w
+  330  python flash_all.py -w
+  331  python flash_all.py -w
+  332  python flash_all.py -w
+  333  python flash_all.py -w
+  334  python flash_all.py -w
+  335  python flash_all.py -w
+  336  python flash_all.py -w
+  337  python flash_all.py -w
+  338  adb devices
+  339  adb devices
+  340  python flash_all.py -w
+  341  python flash_all.py -w
+  342  pip instal sqlalchemy
+  343  pip install sqlalchemy
+  344  adb devices
+  345  python flash_all.py -w
+  346  cd..
+  347  cd ..
+  348  cd ..
+  349  cd ..
+  350  cd Milan
+  351  ls
+  352  cd Verizon
+  353  ls
+  354  cd Milan/
+  355  dir/w
+  356  ls
+  357  cd build
+  358  ls
+  359  cd v26/
+  360  ls
+  361  cd mos_userdebug_fastboot_20221006110343_4960148.0.240_419504507005624
+  362  ls
+  363  python flash_all.py -w
+  364  adb devices
+  365  ls
+  366  python flas_all -w
+  367  dir/w
+  368  ls
+  369  python flash_all.py -w
+  370  adb devices
+  371  jupyter lab
+  372  jupyter lab
+  373  jupyter lab
+  374  adb push com.google.android.apps.messaging_messages.android_20220926_01_RC01.phone_dynamic-151790063_3arch_3dpi_14lang_91be48d0447e14676c842c216e77f73e_apkmirror.com.apkm /
+  375  adb install com.google.android.apps.messaging_messages.android_20220926_01_RC01.phone_dynamic-151790063_3arch_3dpi_14lang_91be48d0447e14676c842c216e77f73e_apkmirror.com.apkm 
+  376  adb install com.google.android.apps.messaging_messages.android_20220926_01_RC01.phone_dynamic-151790063_3arch_3dpi_14lang_91be48d0447e14676c842c216e77f73e_apkmirror.com.apk
+  377  ls
+  378  adb install com.google.android.apps.messaging_messages.android_20220926_01_RC01.phone_dynamic-151790063_3arch_3dpi_14lang_91be48d0447e14676c842c216e77f73e_apkmirror.com.apkm
+  379  adb push com.google.android.apps.messaging_messages.android_20220926_01_RC01.phone_dynamic-151790063_3arch_3dpi_14lang_91be48d0447e14676c842c216e77f73e_apkmirror.com.apkm /
+  380  adb install com.google.android.apps.messaging_messages.android_20220926_01_RC01.phone_dynamic-151790063_3arch_3dpi_14lang_91be48d0447e14676c842c216e77f73e_apkmirror.com.apkm
+  381  anaconda activate lab
+  382  jupyter lab
+  383  git clone https://github.com/ggorovod/FinTech_Bootcamp_Group_Project_1.git
+  384  ls
+  385  cd FinTech_Bootcamp_Group_Project_1/
+  386  git branch Azam-work
+  387  cd ..
+  388  cd FinTech_Bootcamp_Group_Project_1/
+  389  ls
+  390  jupyter lab
+  391  git checkout -b main
+  392  git branch
+  393  git branch main Azam-work
+  394  git branch Azam-work
+  395  git branch checkout -b Azam-work
+  396  git switch Azam-work
+  397  git switch help
+  398  git branch
+  399  git checkout Azam-work
+  400  git commit -m "Sornio Ratio"
+  401  git add .
+  402  git status
+  403  git commit -m "Sortino Ratio"
+  404  git remote status
+  405  git remote
+  406  git push -u origin Azam-work
+  407  git add .
+  408  git commit -m "Sortino Ratio - update"
+  409  git push -u origin Azam-work
+  410  git add .
+  411  git commit -m "Code cleanup and typos"
+  412  git push -u origin Azam-work
+  413  git add .
+  414  git commit -m "typos"
+  415  git push -u origin Azam-work
+  416  git add .
+  417  git commit -m "typos"
+  418  git push -u origin Azam-work
+  419  git add .
+  420  git commit -m "code fix"
+  421  git push -u origin Azam-work
+  422  history > terminal_history.text
