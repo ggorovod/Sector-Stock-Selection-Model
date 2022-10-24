@@ -2,7 +2,7 @@
 
 ---
 
-![money](screenshots/franklins.png)
+![money](screenshots/market.png)
 
 ---
 To make an investment decision regarding exposure to the Energy Sector, we created an analytical model to compare an energy sector index ETF and its major holdings using a selection of measurement criteria.
@@ -61,7 +61,7 @@ The project is a collection of code analyzing a CSV file of returns data. The co
 
 Examples: 
 
-![Beta Bar Graph](screeshots/beta_bar_graph.png)
+![Beta Bar Graph](screenshots/beta_bar_graph.png)
 ![Data_Frame](screenshots/data_table.png)
 ![Point Count Results](screenshots/results.png)
 
